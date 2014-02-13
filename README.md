@@ -5,6 +5,6 @@ Software Carpentry bootcamp at GARNet
 
 Date:  **9-10 April 2014**
 
-Location: ** GARNet, University of Warwick, Coventry, UK**
+Location: **GARNet, University of Warwick, Coventry, UK**
 
 [Further details](http://apawlik.github.io/2014-04-09-GARNET)
